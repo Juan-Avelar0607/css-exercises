@@ -8,6 +8,8 @@
 }
 #fourth-element {
     background-color:rgb(52, 131, 52);
-    font-size:24px;
     font-weight:bold;
+}
+.third, #fourth-element  {
+    font-size:24px;
 }
